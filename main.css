@@ -41,15 +41,15 @@ body {
     font-size: 1.6rem;
     font-family: 'Inconsolata', monospace;
 }
-.name{
+/* .name{
     position: absolute;
     top:90%;
-    /* left:80.5%; */
+    /* left:80.5%; 
     text-align: right;
     color:#3f3f3f ;
     background-color: #7a7a7a;;
     font-weight: bolder;
-}
+} */
 
 @media (min-width: 40rem) and (min-height: 60rem)
 {
