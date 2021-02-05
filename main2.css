@@ -5,6 +5,7 @@
 
 .background{
     background: url("bgimage2.jpg");
+    opacity: 80%;
     width: 100vw;
     height: 100vh;
     z-index: -1;
